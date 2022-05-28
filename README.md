@@ -84,7 +84,7 @@
 
 <p align="center">
  <a href="https://ronak-d.netlify.app/"><img src="https://img.shields.io/badge/-ronak-d.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white" height="30px"/></a>
-<a href="https://www.linkedin.com/in/prajakta-hadole/"><img src="https://img.shields.io/badge/-Prajakta%20Hadole%20-0077B5?style=flat&logo=Linkedin&logoColor=white" height="30px"/></a>
+<a href="https://www.linkedin.com/in/ronak-d/"><img src="https://www.linkedin.com/in/ronak-dodeja-536ab4221/Color=white" height="30px"/></a>
 <a href="mailto:ronak-d@gmail.com"><img src="https://img.shields.io/badge/-ronak-d@gmail-D14836?style=flat&logo=Gmail&logoColor=white" height="30px" /></a>
 <a href="https://www.instagram.com/ronak-d/"><img src="https://img.shields.io/badge/-@ronak-d-E4405F?style=flat&logo=Instagram&logoColor=white" height="30px"/></a>
 <a href="https://medium.com/@ronak-d" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/></a> 

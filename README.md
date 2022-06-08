@@ -8,7 +8,7 @@
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://ronak-d.netlify.app/)**
+- 🙋‍♂️ All about me is at **[My Website](https://ronak-dodeja.vercel.app)**
 
 - 💡 I like to explore new `Technologies` and `Develop software` solutions
 

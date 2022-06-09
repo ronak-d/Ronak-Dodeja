@@ -83,11 +83,16 @@
 ## 🤝🏻 Let's get connected:
 
 <p align="center">
-
+<!-- 
 <a href="https://www.linkedin.com/in/ronak-dodeja-536ab4221/"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQGgWT43R3THLg/profile-displayphoto-shrink_800_800/0/1653128642557?e=1658966400&v=beta&t=2rPTT619s40yZil9AVruHpc8NFHEU2WwfJZhOSlQGYI" height="30px"/></a>
 <a href="mailto:ronakdodeja73@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-ronakdodeja73@gmail-D14836?style=flat&logo=Gmail&logoColor=white" height="30px" /></a>
-<a href="https://medium.com/@ronakdodeja73" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/></a> 
+<a href="https://medium.com/@ronakdodeja73" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/></a>  -->
  
+ <p align="center">
+ <a href="https://ronak-d.netlify.app/"><img src="https://img.shields.io/badge/-ronak-d.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white" height="30px"/></a>
+<a href="https://www.linkedin.com/in/ronak-dodeja-536ab4221/"><img src="https://media-exp2.licdn.com/dms/image/C4D03AQGgWT43R3THLg/profile-displayphoto-shrink_400_400/0/1653128642557?e=1660176000&v=beta&t=sRcwIfm0xFLUhl1O2Q2hv0F7Eur5mKgBRhT-W8sZy2M?style=flat&logo=Linkedin&logoColor=white" height="30px"/></a>
+<a href="mailto:ronakdodeja73@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-ronakdodeja73@gmail-D14836?style=flat&logo=Gmail&logoColor=white" height="30px" /></a>
+<a href="https://medium.com/@ronakdodeja73" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/></a> 
 
 <hr>
  

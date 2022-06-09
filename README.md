@@ -91,7 +91,7 @@
  <p align="center">
  <a href="https://app.netlify.com/teams/ronak-d/overview"><img src="https://img.shields.io/badge/-ronak-d.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white" height="30px"/></a>
   
-<a href="https://www.linkedin.com/in/ronak-dodeja-536ab4221/"><img src=""?style=flat&logo=Linkedin&logoColor=white" height="30px"/></a>
+<a href="https://www.linkedin.com/in/ronak-dodeja-536ab4221/"><img src="https://img.shields.io/badge/-ronak%20d%20-0077B5?style=flat&logo=Linkedin&logoColor=white%22%20height=%2230px%22"></a>
   
 <a href="mailto:ronakdodeja73@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-ronakdodeja73@gmail-D14836?style=flat&logo=Gmail&logoColor=white" height="30px" /></a>
   

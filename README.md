@@ -89,7 +89,6 @@
 <a href="https://medium.com/@ronakdodeja73" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/></a>  -->
  
  <p align="center">
- <a href="https://app.netlify.com/teams/ronak-d/overview"><img src="https://img.shields.io/badge/-ronak-d.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white" height="30px"/></a>
   
 <a href="https://www.linkedin.com/in/ronak-dodeja-536ab4221/"><img src="https://img.shields.io/badge/-ronak%20d%20-0077B5?style=flat&logo=Linkedin&logoColor=white%22%20height=%2230px%22"></a>
   

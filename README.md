@@ -37,37 +37,6 @@
 <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab" height="25px"/>
 </p>
 
-
-
-### ⚙️ &nbsp;GitHub Analytics
- <hr>
-<p align="center">
-<a href="https://github.com/ronak-d">
- 
- 
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ronak-d&layout=compact&langs_count=8&theme=algolia"/>
-  
- <img  height="150em"  src="https://github-readme-stats.vercel.app/api?username=ronak-d&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
- 
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ronak-d&theme=radical" />
- 
-
- <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronak-d&theme=dracula" />
-    
-</a>
-</p>
-  
-  
-### 🏆 GitHub Profile Trophy:
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ronak-d&column=8&theme=onedark&no-frame=true&no-bg=true"/>
-</a>
-</p>
-
-![](https://github.com/ronak-d/ronak-d/blob/main/imgs/bottom_header.svg)
-
-
 ## 🤝🏻 Let's get connected:
 
 <p align="center">

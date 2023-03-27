@@ -1,6 +1,3 @@
-# Ronak-Dodeja
-
-
 <h4>Hey!! Great to see you here! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h>
 <h1 > Hey I'm Ronak Dodeja🖥️📱💻</h1> 
 
@@ -9,19 +6,10 @@
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://ronakdodeja.vercel.app/)**
-
 - 💡 I like to explore new `Technologies` and `Develop software` solutions
-
 - 🔭 I’m currently working on `Something Intresting`.
-
 - 🌱 I’m currently learning `MERN Stack`
-
-- 🤔 I’m looking for help with `Competitive Programming`
-
-- 👯 I’m currently searching for a new career opportunity in `Software Industry`
-
 - 💬 Ask me about `code`, `Frontend`, `Backend`,  `DSA`,  `Web`,  `softwaredevelopment`, `crypto`,
-
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
 

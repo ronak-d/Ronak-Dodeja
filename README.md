@@ -1,5 +1,5 @@
 <h4>Hey!! Great to see you here! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h>
-<h1 > Hey I'm Ronak Dodeja🖥️📱💻</h1> 
+<h2> Hey I'm Ronak Dodeja</h2> 
 
 ## 👨🏻‍💻 About Me:
 

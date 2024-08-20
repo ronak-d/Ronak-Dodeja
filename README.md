@@ -9,7 +9,7 @@
 - 💡 I like to explore new `Technologies` and `Develop software` solutions
 - 🔭 I’m currently working on `Something Intresting`.
 - 🌱 I’m currently learning `MERN Stack`
-- 💬 Ask me about `code`, `Frontend`, `Backend`,  `DSA`,  `Web`,  `softwaredevelopment`, `crypto`,
+- 💬 Ask me about `code`, `Frontend`, `Backend`,  `DSA`,  `Web`,  `softwaredevelopment`, `crypto`, `AWS`,
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
 
@@ -17,8 +17,12 @@
 ## 🛠️ Tech Stack and FrameWorks:
 
 <p>
+<img alt="Next.js" src="https://img.shields.io/badge/nextjs-323330?style=for-the-badge&logo=next.js&logoColor=F7DF1E"  height="25px"/>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
+<img alt="Redux Toolkit" src="https://img.shields.io/badge/Redux-323330?style=for-the-badge&logo=Redux&logoColor=F7DF1E" height="25px"/>
+<img alt="Shadcn UI" src="https://img.shields.io/badge/shadcn-323330?style=for-the-badge&logo=shadcn&logoColor=F7DF1E"  height="25px"/>
+<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindCSS-323330?style=for-the-badge&logo=tailwindCSS&logoColor=F7DF1E"  height="25px"/>
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
 <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
